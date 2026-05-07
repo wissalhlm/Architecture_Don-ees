@@ -1,0 +1,39 @@
+services:
+  # Ton application de Data Engineering
+  job-pipeline:
+    build: .
+    container_name: job_analyzer
+    volumes:
+      - ./data:/app/data  # Pour voir tes fichiers JSON (Bronze/Silver/Gold) sur ton PC
+    depends_on:
+      - db
+    environment:
+      - DB_HOST=db
+      
+  # Ta base de données (Data Warehouse)
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: jobs_warehouse
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  # Interface pour voir tes données Gold dans la DB
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: phpmyadmin_gui
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: db
+
+volumes:
+  mysql_data:

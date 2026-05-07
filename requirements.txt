@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+mysql-connector-python
+matplotlib
+seaborn
