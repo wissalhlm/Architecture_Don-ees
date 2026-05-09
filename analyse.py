@@ -6,9 +6,8 @@ import time
 import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib
-matplotlib.use('Agg') # Pour éviter les erreurs d'interface graphique dans Docker
+matplotlib.use('Agg') 
 
-# --- 1. Partie Analyse (Ton code actuel) ---
 os.makedirs("data/gold", exist_ok=True)
 
 with open("data/silver/jobs_cleaned.json", "r", encoding="utf-8") as f:
@@ -40,12 +39,10 @@ with open("data/gold/jobs_gold.json", "w", encoding="utf-8") as f:
 
 print("✅ GOLD layer créé localement !")
 
-# --- 1.5 Partie Visualisation avec Matplotlib & Seaborn ---
 print("📊 Génération des visualisations...")
 os.makedirs("data/gold/viz", exist_ok=True)
 sns.set_theme(style="whitegrid")
 
-# Graphique 1: Offres par ville (Top 10)
 villes_sorted = sorted(count_villes.items(), key=lambda x: x[1], reverse=True)[:10]
 if villes_sorted:
     v_names, v_counts = zip(*villes_sorted)
@@ -57,7 +54,6 @@ if villes_sorted:
     plt.savefig("data/gold/viz/top_villes.png")
     plt.close()
 
-# Graphique 2: Top Skills demandés
 skills_sorted = sorted(count_skills.items(), key=lambda x: x[1], reverse=True)
 if skills_sorted:
     s_names, s_counts = zip(*skills_sorted)
@@ -69,7 +65,6 @@ if skills_sorted:
     plt.savefig("data/gold/viz/top_skills.png")
     plt.close()
 
-# Graphique 3: Top Entreprises (Top 10)
 entreprises_sorted = sorted(count_entreprises.items(), key=lambda x: x[1], reverse=True)[:10]
 if entreprises_sorted:
     e_names, e_counts = zip(*entreprises_sorted)
@@ -83,12 +78,9 @@ if entreprises_sorted:
 
 print("✅ Visualisations sauvegardées dans data/gold/viz/ !")
 
-# --- 2. Partie Data Warehouse (MySQL) ---
-# Petit temps d'attente pour être sûr que MySQL est bien démarré dans Docker
 time.sleep(10) 
 
 try:
-    # On utilise os.getenv("DB_HOST", "localhost") pour que ça marche à la fois localement et sur Docker
     db_host = os.getenv("DB_HOST", "localhost")
     db = mysql.connector.connect(
         host=db_host, 
@@ -98,13 +90,11 @@ try:
     )
     cursor = db.cursor()
 
-    # Nettoyage et Insertion pour les Skills
     cursor.execute("CREATE TABLE IF NOT EXISTS top_skills (skill VARCHAR(255), count INT)")
     cursor.execute("TRUNCATE TABLE top_skills") # On vide pour repartir à neuf
     for skill, count in gold_data["top_skills"].items():
         cursor.execute("INSERT INTO top_skills (skill, count) VALUES (%s, %s)", (skill, count))
 
-    # Nettoyage et Insertion pour les Villes
     cursor.execute("CREATE TABLE IF NOT EXISTS jobs_by_city (city VARCHAR(255), count INT)")
     cursor.execute("TRUNCATE TABLE jobs_by_city")
     for city, count in gold_data["offres_par_ville"].items():

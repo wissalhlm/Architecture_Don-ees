@@ -13,18 +13,17 @@ headers = {
 
 jobs = []
 
-for page in range(1, 10):  # Scrape les 10 premières pages
+for page in range(1, 10):  
     target_url = f"{url}?p={page}"
     response = requests.get(target_url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
-    
+
     offers = soup.find_all("li", class_="post-id")
-    
+
     for offer in offers:
         titre_elem = offer.find("a", class_="titreJob")
         entreprise_elem = offer.find("img", class_="photo")
         
-        # We can separate title and location if needed, but for now we'll match structure
         titre = titre_elem.text.strip() if titre_elem else None
         entreprise = entreprise_elem.get("alt").strip() if entreprise_elem and entreprise_elem.has_attr("alt") else None
         

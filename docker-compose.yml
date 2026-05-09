@@ -1,10 +1,9 @@
 services:
-  # Ton application de Data Engineering
   job-pipeline:
     build: .
     container_name: job_analyzer
     volumes:
-      - ./data:/app/data  # Pour voir tes fichiers JSON (Bronze/Silver/Gold) sur ton PC
+      - ./data:/app/data  
     depends_on:
       - db
     environment:
@@ -23,7 +22,6 @@ services:
     volumes:
       - mysql_data:/var/lib/mysql
 
-  # Interface pour voir tes données Gold dans la DB
   phpmyadmin:
     image: phpmyadmin:latest
     container_name: phpmyadmin_gui

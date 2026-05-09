@@ -1,5 +1,125 @@
 [
     {
+        "titre": "contrôleur(se) de gestion",
+        "entreprise": "innovai't",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "contrôleur (h/f)",
+        "entreprise": "non spécifié",
+        "ville": "agadir (maroc)"
+    },
+    {
+        "titre": "technicien/ne de flotte (h/f)",
+        "entreprise": "non spécifié",
+        "ville": "agadir (maroc)"
+    },
+    {
+        "titre": "crm & data specialist",
+        "entreprise": "m-automotiv",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "ingénieur devops sénior (f/h)",
+        "entreprise": "sofrecom maroc",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "conseiller client francophone",
+        "entreprise": "cnexia",
+        "ville": "fès (maroc)"
+    },
+    {
+        "titre": "chargé(e) de paie sénior (expérimenté sur sage)",
+        "entreprise": "concentrix",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "contrôleur de gestion projet",
+        "entreprise": "vinci energies afrique de l'ouest",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chargé(e) import & export",
+        "entreprise": "non spécifié",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable marketing opérationnel",
+        "entreprise": "groupe label'vie - carrefour",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "contrôleur de gestion senior",
+        "entreprise": "saham bank",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "contrôleur financier n2",
+        "entreprise": "saham bank",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chargé surveillance des risques",
+        "entreprise": "saham bank",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "gestionnaire clientèle - réseau casablanca - mohammedia (h/f)",
+        "entreprise": "attijariwafa bank",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "scrum master (f/h)",
+        "entreprise": "sofrecom maroc",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "caissier (ère)",
+        "entreprise": "jardin majorelle",
+        "ville": "marrakech (maroc)"
+    },
+    {
+        "titre": "concepteur développeur (f/h)",
+        "entreprise": "sofrecom maroc",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "vendeur (se)",
+        "entreprise": "jardin majorelle",
+        "ville": "marrakech (maroc)"
+    },
+    {
+        "titre": "assistante de direction",
+        "entreprise": "non spécifié",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "management controller (contrôleur de gestion)",
+        "entreprise": "al akhawayn university",
+        "ville": "ifrane (maroc)"
+    },
+    {
+        "titre": "nous cherchons des vrais commerciaux! rejoins nous !! - package atteignant 25k-30k",
+        "entreprise": "eloan",
+        "ville": "tanger (maroc)"
+    },
+    {
+        "titre": "boostez votre carrière commerciale avec nous  salaire motivant",
+        "entreprise": "eloan",
+        "ville": "tanger (maroc)"
+    },
+    {
+        "titre": "conseiller commercial",
+        "entreprise": "eloan",
+        "ville": "tanger (maroc)"
+    },
+    {
+        "titre": "chargés de clientèle bilingue (francais/anglais)",
+        "entreprise": "atlas online",
+        "ville": "casablanca (maroc)"
+    },
+    {
         "titre": "conseillers commerciaux en assurance santé – émission d’appels",
         "entreprise": "heomi",
         "ville": "casablanca (maroc)"
@@ -255,11 +375,6 @@
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "ingénieur devops (h/f)",
-        "entreprise": "sofrecom maroc",
-        "ville": "casa (maroc)"
-    },
-    {
         "titre": "programme manager (technology change) (h/ f)",
         "entreprise": "non spécifié",
         "ville": "casablanca (maroc)"
@@ -328,125 +443,5 @@
         "titre": "agent de trésorerie (h/f)",
         "entreprise": "pwc",
         "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "chargé de portefeuille - ain chkef",
-        "entreprise": "fondation arrawaj",
-        "ville": "fès (maroc)"
-    },
-    {
-        "titre": "chargé de portefeuille",
-        "entreprise": "fondation arrawaj",
-        "ville": "fès (maroc)"
-    },
-    {
-        "titre": "faculty club manager",
-        "entreprise": "al akhawayn university",
-        "ville": "ifrane (maroc)"
-    },
-    {
-        "titre": "conseiller technique de vente en climatisation (h/f)",
-        "entreprise": "maroc climate and security (mcs) - carrier",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "ingénieur conception radio",
-        "entreprise": "btechnologie",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "géologue d'exploration - boumaadine",
-        "entreprise": "aya gold & silver",
-        "ville": "tinejdad (maroc)"
-    },
-    {
-        "titre": "contrôleur groupe d’agences (h/f)",
-        "entreprise": "fondation arrawaj",
-        "ville": "tout le maroc (maroc)"
-    },
-    {
-        "titre": "senior project manager",
-        "entreprise": "madaef",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "infirmière de travail",
-        "entreprise": "axa services maroc",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "opérateur de machine",
-        "entreprise": "meski invest - riva industries",
-        "ville": "el jadida (maroc)"
-    },
-    {
-        "titre": "chef d'agence adjoint (h/f)",
-        "entreprise": "sorec",
-        "ville": "berkane (maroc)"
-    },
-    {
-        "titre": "métreur",
-        "entreprise": "meski invest - riva industries",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "chargé de portefeuille",
-        "entreprise": "fondation arrawaj",
-        "ville": "sidi allal tazi (maroc)"
-    },
-    {
-        "titre": "chargé de développement commercial btob.",
-        "entreprise": "manpower agences",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "agent de maintenance",
-        "entreprise": "meski invest - riva industries",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "contrôleur de gestion",
-        "entreprise": "aya gold & silver",
-        "ville": "casablanca et périphérie (maroc)"
-    },
-    {
-        "titre": "responsable marketing & communication (h/f)",
-        "entreprise": "non spécifié",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "juriste droit des affaires (h/f)",
-        "entreprise": "tesca group",
-        "ville": "morocco (maroc)"
-    },
-    {
-        "titre": "superviseur inventaire",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "marrakech (maroc)"
-    },
-    {
-        "titre": "product owner",
-        "entreprise": "btechnologie",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "chargé d’import et export (h/f)",
-        "entreprise": "sorec",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "agent de maintenance electricien (h/f)",
-        "entreprise": "meski invest - riva industries",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "agent de maintenance mécanicien",
-        "entreprise": "meski invest - riva industries",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "chargé rh confirmé h/f",
-        "entreprise": "manpower agences",
-        "ville": "sala al jadida (maroc)"
     }
 ]
