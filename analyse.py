@@ -1,5 +1,8 @@
 import json
 import os
+import datetime
+import io
+from minio import Minio
 from collections import Counter
 import mysql.connector
 import time
@@ -38,6 +41,37 @@ with open("data/gold/jobs_gold.json", "w", encoding="utf-8") as f:
     json.dump(gold_data, f, ensure_ascii=False, indent=4)
 
 print("✅ GOLD layer créé localement !")
+
+# Envoi vers MinIO (Data Lake - Couche Gold)
+try:
+    minio_host = os.getenv("MINIO_HOST", "localhost:9000")
+    client = Minio(
+        minio_host,
+        access_key="admin",
+        secret_key="password",
+        secure=False
+    )
+    
+    bucket_name = "datalake"
+    if not client.bucket_exists(bucket_name):
+        client.make_bucket(bucket_name)
+
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"gold/jobs_gold_{timestamp}.json"
+    
+    json_bytes = json.dumps(gold_data, ensure_ascii=False, indent=4).encode('utf-8')
+    data_stream = io.BytesIO(json_bytes)
+    
+    client.put_object(
+        bucket_name,
+        filename,
+        data_stream,
+        length=len(json_bytes),
+        content_type="application/json"
+    )
+    print(f"✅ Historique Gold sauvegardé dans MinIO : {filename}")
+except Exception as e:
+    print(f"⚠️ Erreur de connexion à MinIO : {e}")
 
 print("📊 Génération des visualisations...")
 os.makedirs("data/gold/viz", exist_ok=True)

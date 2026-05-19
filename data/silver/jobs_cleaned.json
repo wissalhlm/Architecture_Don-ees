@@ -1,13 +1,48 @@
 [
     {
-        "titre": "contrôleur(se) de gestion",
-        "entreprise": "innovai't",
+        "titre": "candidature spontanée gestionnaire administratif polyvalent",
+        "entreprise": "akwa group",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "contrôleur (h/f)",
-        "entreprise": "non spécifié",
-        "ville": "agadir (maroc)"
+        "titre": "candidature spontanée  ingénieur méthodes et industrialisation",
+        "entreprise": "akwa group",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "candidature spontanée  commercial terrain",
+        "entreprise": "akwa group",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable des relations hôpital médecins de ville (h/f)",
+        "entreprise": "huir - l'hôpital universitaire international de rabat",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "chargée d'assistance routière francophone",
+        "entreprise": "manpower agences",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "deutsch- und englischsprachige kundenberater (m/w)",
+        "entreprise": "outsourcia",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "manager commercial trilingue fr/eng/de",
+        "entreprise": "outsourcia",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "ingénieur système et réseaux",
+        "entreprise": "novec",
+        "ville": "salé, technopolis (maroc)"
+    },
+    {
+        "titre": "gestionnaire clientèle (h/f) - assilah / ksar sghir / ksar el kbir",
+        "entreprise": "attijariwafa bank",
+        "ville": "tanger (maroc)"
     },
     {
         "titre": "technicien/ne de flotte (h/f)",
@@ -15,189 +50,139 @@
         "ville": "agadir (maroc)"
     },
     {
-        "titre": "crm & data specialist",
-        "entreprise": "m-automotiv",
+        "titre": "manager h/f",
+        "entreprise": "mcdonald's maroc",
+        "ville": "oujda (maroc)"
+    },
+    {
+        "titre": "commercial immobilier (h/f) - marrakech",
+        "entreprise": "domino hr morocco",
+        "ville": "marrakech (maroc)"
+    },
+    {
+        "titre": "coordinateur(ice) expérience client lsm",
+        "entreprise": "mcdonald's maroc",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "ingénieur devops sénior (f/h)",
+        "titre": "responsable d'agence (h/f)",
+        "entreprise": "tectra",
+        "ville": "tout le maroc (maroc)"
+    },
+    {
+        "titre": "stagiaire technicien support f/h",
         "entreprise": "sofrecom maroc",
-        "ville": "rabat (maroc)"
+        "ville": "sala al jadida (maroc)"
     },
     {
-        "titre": "conseiller client francophone",
-        "entreprise": "cnexia",
-        "ville": "fès (maroc)"
-    },
-    {
-        "titre": "chargé(e) de paie sénior (expérimenté sur sage)",
-        "entreprise": "concentrix",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "contrôleur de gestion projet",
-        "entreprise": "vinci energies afrique de l'ouest",
+        "titre": "manager h/f",
+        "entreprise": "mcdonald's maroc",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "chargé(e) import & export",
-        "entreprise": "non spécifié",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "responsable marketing opérationnel",
+        "titre": "directeur magasin (h/f)",
         "entreprise": "groupe label'vie - carrefour",
-        "ville": "casablanca (maroc)"
+        "ville": "région sud (maroc)"
     },
     {
-        "titre": "contrôleur de gestion senior",
-        "entreprise": "saham bank",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "contrôleur financier n2",
-        "entreprise": "saham bank",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "chargé surveillance des risques",
-        "entreprise": "saham bank",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "gestionnaire clientèle - réseau casablanca - mohammedia (h/f)",
-        "entreprise": "attijariwafa bank",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "scrum master (f/h)",
+        "titre": "business analyst  (f/h)",
         "entreprise": "sofrecom maroc",
+        "ville": "technopolis (maroc)"
+    },
+    {
+        "titre": "traffic manager (h/f)",
+        "entreprise": "adverweb",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "caissier (ère)",
-        "entreprise": "jardin majorelle",
-        "ville": "marrakech (maroc)"
-    },
-    {
-        "titre": "concepteur développeur (f/h)",
-        "entreprise": "sofrecom maroc",
+        "titre": "assistant - travel agency - english speaker",
+        "entreprise": "hayyak tourism",
         "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "vendeur (se)",
-        "entreprise": "jardin majorelle",
-        "ville": "marrakech (maroc)"
-    },
-    {
-        "titre": "assistante de direction",
-        "entreprise": "non spécifié",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "management controller (contrôleur de gestion)",
-        "entreprise": "al akhawayn university",
-        "ville": "ifrane (maroc)"
-    },
-    {
-        "titre": "nous cherchons des vrais commerciaux! rejoins nous !! - package atteignant 25k-30k",
-        "entreprise": "eloan",
-        "ville": "tanger (maroc)"
-    },
-    {
-        "titre": "boostez votre carrière commerciale avec nous  salaire motivant",
-        "entreprise": "eloan",
-        "ville": "tanger (maroc)"
-    },
-    {
-        "titre": "conseiller commercial",
-        "entreprise": "eloan",
-        "ville": "tanger (maroc)"
-    },
-    {
-        "titre": "chargés de clientèle bilingue (francais/anglais)",
-        "entreprise": "atlas online",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "conseillers commerciaux en assurance santé – émission d’appels",
-        "entreprise": "heomi",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "coordinateur opérationnel régional",
-        "entreprise": "aba technology",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "chargé opérateur back office - rabat",
-        "entreprise": "fondation arrawaj",
-        "ville": "rabat (maroc)"
     },
     {
         "titre": "opérateur de machine",
         "entreprise": "meski invest - riva industries",
-        "ville": "meknès (maroc)"
+        "ville": "el jadida (maroc)"
     },
     {
-        "titre": "senior business developer – closing expert",
-        "entreprise": "weclose",
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "essaouira (maroc)"
+    },
+    {
+        "titre": "diététicien(e)",
+        "entreprise": "huir - l'hôpital universitaire international de rabat",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "chargé(e) d’accueil et des moyens généraux",
+        "entreprise": "alh holding",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "responsable des ressources humaines (h/f)",
-        "entreprise": "non spécifié",
+        "titre": "aircraft technician - base maintenance",
+        "entreprise": "emirates airlines",
+        "ville": "dubai (maroc)"
+    },
+    {
+        "titre": "planificateur – optimisateur",
+        "entreprise": "sol30",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "responsable administratif",
-        "entreprise": "non spécifié",
+        "titre": "commercial senior h/f - immobilier",
+        "entreprise": "alh holding",
+        "ville": "skhirat (maroc)"
+    },
+    {
+        "titre": "assistant(e) administratif(ve)",
+        "entreprise": "mcdonald's maroc",
+        "ville": "berkane / oujda (maroc)"
+    },
+    {
+        "titre": "chef de produits vp & vul",
+        "entreprise": "auto nejma maroc s.a.",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "business developer senior – closer specialist",
-        "entreprise": "weclose",
+        "titre": "cadre commercial francophone top performers",
+        "entreprise": "alkimiy",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "conseiller commercial francophone – formation & évolution",
-        "entreprise": "weclose",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "candidature spontanée",
-        "entreprise": "weclose",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "ingénieur forestier",
-        "entreprise": "cdg  developpement",
-        "ville": "sidi yahia du gharb (maroc)"
-    },
-    {
-        "titre": "hydraulicien",
+        "titre": "dessinateur industriel",
         "entreprise": "meski invest - riva industries",
         "ville": "el jadida (maroc)"
     },
     {
-        "titre": "chef de département méthodes & processus - pmo",
-        "entreprise": "groupe label'vie - carrefour",
+        "titre": "développeur java / angular",
+        "entreprise": "capgemini",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "gestionnaire clientèle (h/f)",
-        "entreprise": "attijariwafa bank",
-        "ville": "mirleft (maroc)"
+        "titre": "développeur java / react (h/f)",
+        "entreprise": "capgemini",
+        "ville": "casablanca (maroc)"
     },
     {
-        "titre": "directeur de restaurant h/f",
-        "entreprise": "mcdonald's maroc",
-        "ville": "tout le maroc (maroc)"
+        "titre": "tech lead full stack (java /angular (h/f))",
+        "entreprise": "capgemini",
+        "ville": "casablanca (maroc)"
     },
     {
-        "titre": "chargé de suivi et culture de microalgues",
-        "entreprise": "ciments du maroc",
-        "ville": "safi (maroc)"
+        "titre": "développeur java / tibco (h/f)",
+        "entreprise": "capgemini",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable administratif et financier (raf) – abidjan, côte d’ivoire",
+        "entreprise": "non spécifié",
+        "ville": "abidjan (maroc)"
+    },
+    {
+        "titre": "caissier(e)",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "marrakech (maroc)"
     },
     {
         "titre": "candidatures spontanées - métiers de l'aéronautique",
@@ -205,199 +190,109 @@
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "ingénieur / technico-commercial dispositifs médicaux — neurophysiologie & sommeil",
-        "entreprise": "locamed",
+        "titre": "account managers (junior et senior)",
+        "entreprise": "prevas",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "candidature spontanée",
+        "entreprise": "prevas",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "agent back office h/f",
+        "entreprise": "manpower agences",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chef de produits senior value+",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "manager h/f",
+        "entreprise": "mcdonald's maroc",
+        "ville": "agadir (maroc)"
+    },
+    {
+        "titre": "développeurs sailpoint identityiq",
+        "entreprise": "afd.tech",
         "ville": "rabat (maroc)"
     },
     {
-        "titre": "conseiller clientèle (h/f)",
-        "entreprise": "attijariwafa bank",
-        "ville": "laâyoune/ tarfaya (maroc)"
-    },
-    {
-        "titre": "rédacteur technique aéronautique",
-        "entreprise": "akkodis maroc",
-        "ville": "tanger (maroc)"
-    },
-    {
-        "titre": "agent de prise en charge - clinique errachidia",
-        "entreprise": "akdital",
-        "ville": "errachidia (maroc)"
-    },
-    {
-        "titre": "terminal supervisor",
-        "entreprise": "maersk",
-        "ville": "tanger - tetouan - al hoceima (maroc)"
-    },
-    {
-        "titre": "chargé de compte (h/f)",
-        "entreprise": "bank assafa",
-        "ville": "safi (maroc)"
-    },
-    {
-        "titre": "manager de rayon biscuiterie/ epicerie  - expérience exigée en distribution",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "manager de rayon dph (droguerie, parfumerie et hygiène)",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "chargé (e) marketing opérationnel",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "manager de rayon apls (autres produits libre service) - expérience en distribution exigée",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "marrakech (maroc)"
-    },
-    {
-        "titre": "chef de département textile-bazar",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "tout le maroc (maroc)"
-    },
-    {
-        "titre": "agent pec cardio",
+        "titre": "comptable client h/f",
         "entreprise": "akdital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "chargé honoraires expérimenté h/f",
+        "titre": "comptable fournisseur",
         "entreprise": "akdital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "cell manager (cellule conditionnement) (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "manufacturing capabilities leader ( h/f)",
-        "entreprise": "centrale danone",
+        "titre": "packaging customization specialist mpd",
+        "entreprise": "manpower agences",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "responsable technique (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "fès (maroc)"
-    },
-    {
-        "titre": "responsable technique energie (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "fkih ben salah (maroc)"
-    },
-    {
-        "titre": "responsable technique (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "fkih ben salah (maroc)"
-    },
-    {
-        "titre": "stagiaire en juridique – pfe (h/f)",
-        "entreprise": "centrale danone",
+        "titre": "avis aux jeunes diplômés. intégrez unifitel et bénéficiez d'un tremplin vers les métiers financiers",
+        "entreprise": "unifitel",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "contrôleur de gestion – usine de salé ( h/f)",
-        "entreprise": "centrale danone",
-        "ville": "salé (maroc)"
+        "titre": "responsable des opérations (h/f)",
+        "entreprise": "clérh",
+        "ville": "sudaphi, agadir (maroc)"
     },
     {
-        "titre": "assistant brand manager (h/f)",
-        "entreprise": "centrale danone",
+        "titre": "comptable confirmé h/f",
+        "entreprise": "akdital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "operations performance manager (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "manager chaîne graphique – packaging & supports print (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "stagiaire pmo & data analytics (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "responsable administratif rh ( safi & essaouira ) - h/f",
-        "entreprise": "centrale danone",
-        "ville": "safi (maroc)"
-    },
-    {
-        "titre": "conducteur machine débutant",
-        "entreprise": "centrale danone",
-        "ville": "salé (maroc)"
-    },
-    {
-        "titre": "superviseur maintenance energies",
-        "entreprise": "centrale danone",
-        "ville": "kénitra (maroc)"
-    },
-    {
-        "titre": "ingénieur production (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "salé (maroc)"
-    },
-    {
-        "titre": "leader développeur (h/f) (tout le maroc)",
-        "entreprise": "centrale danone",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "technicien des energies",
-        "entreprise": "centrale danone",
-        "ville": "salé (maroc)"
-    },
-    {
-        "titre": "junior brand manager (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "technicien supérieur de laboratoire (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "rabat (maroc)"
-    },
-    {
-        "titre": "responsable méthodes (h/f)",
-        "entreprise": "centrale danone",
-        "ville": "fkih ben salah (maroc)"
-    },
-    {
-        "titre": "sales coworker - textile & bathshop",
-        "entreprise": "ikea maroc",
-        "ville": "casablanca (maroc)"
-    },
-    {
-        "titre": "programme manager (technology change) (h/ f)",
+        "titre": "cadre juriste (h/f)",
         "entreprise": "non spécifié",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "project manager (technology change) (h/ f)",
+        "titre": "responsable maintenance véhicules – parc",
+        "entreprise": "non spécifié",
+        "ville": "mohammédia (maroc)"
+    },
+    {
+        "titre": "délégué régional (h/f)",
+        "entreprise": "non spécifié",
+        "ville": "oujda (maroc)"
+    },
+    {
+        "titre": "gérant de station-service",
+        "entreprise": "non spécifié",
+        "ville": "béni mellal (maroc)"
+    },
+    {
+        "titre": "assistante administrative",
+        "entreprise": "non spécifié",
+        "ville": "mohammédia (maroc)"
+    },
+    {
+        "titre": "assistante  financière (h/f)",
         "entreprise": "non spécifié",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "business analyst - asset investissement (h/ f)",
-        "entreprise": "non spécifié",
+        "titre": "bilingual customer service representative (french & english)",
+        "entreprise": "telus digital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "business analyst – scrum master senior trésorerie (h/ f)",
-        "entreprise": "non spécifié",
+        "titre": "operations team leader (french & english)",
+        "entreprise": "telus digital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "chargé adp et paie (h/f)",
-        "entreprise": "groupe vilavi",
-        "ville": "tanger (maroc)"
+        "titre": "bilingual customer service advisor (fr/en)",
+        "entreprise": "telus digital",
+        "ville": "casablanca (maroc)"
     },
     {
         "titre": "operations manager [french & english speaker]",
@@ -405,43 +300,153 @@
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "chargé technique actifs - skhirat",
-        "entreprise": "groupe label'vie - carrefour",
-        "ville": "skhirat (maroc)"
-    },
-    {
         "titre": "quality manager [call center/bpo]",
         "entreprise": "telus digital",
         "ville": "casablanca (maroc)"
     },
     {
-        "titre": "collaborateur / collaboratrice comptable confirmé/e",
-        "entreprise": "soreco",
+        "titre": "ingénieur (e) conception & rétroconception",
+        "entreprise": "cid",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable alumni",
+        "entreprise": "université internationale de rabat (uir)",
+        "ville": "alumni relations manager"
+    },
+    {
+        "titre": "chargé de portefeuille tpe",
+        "entreprise": "fondation arrawaj",
+        "ville": "recrutement national (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille tpe",
+        "entreprise": "fondation arrawaj",
+        "ville": "mohammédia (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille tpe",
+        "entreprise": "fondation arrawaj",
+        "ville": "temara (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille tpe",
+        "entreprise": "fondation arrawaj",
         "ville": "rabat (maroc)"
     },
     {
-        "titre": "responsable administratif et financier",
-        "entreprise": "non spécifié",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "directeur administratif et financier",
-        "entreprise": "non spécifié",
-        "ville": "meknès (maroc)"
-    },
-    {
-        "titre": "chargé de trésorerie sénior",
-        "entreprise": "axa services maroc",
-        "ville": "sala al jadida (maroc)"
-    },
-    {
-        "titre": "responsable de dépôt (h/f)",
-        "entreprise": "non spécifié",
-        "ville": "bouznika (maroc)"
-    },
-    {
-        "titre": "agent de trésorerie (h/f)",
-        "entreprise": "pwc",
+        "titre": "chargé de portefeuille tpe",
+        "entreprise": "fondation arrawaj",
         "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chef d'agence",
+        "entreprise": "fondation arrawaj",
+        "ville": "dcheira al jihadia (maroc)"
+    },
+    {
+        "titre": "stage pfe  qualité",
+        "entreprise": "pratt & whitney",
+        "ville": "nouaceur (maroc)"
+    },
+    {
+        "titre": "conseiller commercial _ mercedes-benz (h/f)",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "conseiller(e) commercial(e) byd",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "bouskoura (maroc)"
+    },
+    {
+        "titre": "conseiller commercial _ mercedes-benz (h/f)",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "chargée de facturation & livraison",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "bouskoura (maroc)"
+    },
+    {
+        "titre": "agent d'immatriculation",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "caissier(e)",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "rabat (maroc)"
+    },
+    {
+        "titre": "star assistant",
+        "entreprise": "auto nejma maroc s.a.",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable qualité",
+        "entreprise": "meski invest - riva industries",
+        "ville": "meknès (maroc)"
+    },
+    {
+        "titre": "candidature spontanée",
+        "entreprise": "marsh maroc",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "responsable trésorerie",
+        "entreprise": "non spécifié",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "al manzal (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "rich (maroc)"
+    },
+    {
+        "titre": "gestionnaire clientèle - réseau rabat salé temara (h/f)",
+        "entreprise": "attijariwafa bank",
+        "ville": "rabat / salé / temara (maroc)"
+    },
+    {
+        "titre": "gestionnaire clientèle - réseau kénitra & gharb (h/f)",
+        "entreprise": "attijariwafa bank",
+        "ville": "kénitra / sidi slimane (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "tiznit (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "taroudant (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "lqliaa (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "belfaa (maroc)"
+    },
+    {
+        "titre": "gestionnaire clientèle - réseau casablanca - el gara (h/f)",
+        "entreprise": "attijariwafa bank",
+        "ville": "casablanca (maroc)"
+    },
+    {
+        "titre": "chargé de portefeuille",
+        "entreprise": "fondation arrawaj",
+        "ville": "ouled taima (maroc)"
     }
 ]
